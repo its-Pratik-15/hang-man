@@ -2,7 +2,7 @@
 
 A modern implementation of the classic Hangman game built with React 19 and Vite.
 
-![Gameplay Preview]((https://hang-man-three-dun.vercel.app/))
+https://hang-man-three-dun.vercel.app/
 
 ## Features
 - Interactive GUI with ASCII art hangman stages
